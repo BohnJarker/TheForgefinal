@@ -6,7 +6,7 @@ A local, printer-focused CAD workspace for Omni-Forge. Version 0.1.
 
 Double-click **Start The Forge.cmd**. It starts a local server and opens the application in your browser at **http://127.0.0.1:4173/**. Node.js 22 or newer is required and is already installed on this computer. No account or internet connection is needed to run the included build.
 
-The entire folder must stay together. The HTML file cannot run by itself because the app includes a real solid geometry engine and background worker.
+The entire folder must stay together. The HTML file cannot run by itself because the app includes a real solid geometry engine and background worker. If you cloned this repository instead of downloading the packaged application, first run `npm ci` and `npm run build` to create the production files used by the launcher.
 
 ## Workspace
 

@@ -1,6 +1,6 @@
 # One-time license launch
 
-The owner selected a $15 one-time license, configured in USD. No payment provider, customer license terms, refund policy, or update entitlement has been chosen. This repository does not accept payments or issue licenses yet.
+The owner selected a $15 one-time license, configured in USD. Gumroad is the proposed hosted checkout, download delivery, and license-key provider. Its signup page is open for the owner to complete account setup. No provider product, customer license terms, refund policy, or update entitlement is live yet. This repository does not accept payments or issue licenses yet. See SELLING.md for the prepared product listing and launch steps.
 
 ## Storefront
 
