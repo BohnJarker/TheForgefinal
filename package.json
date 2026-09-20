@@ -1,0 +1,22 @@
+{
+  "name": "the-forge",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1",
+    "test": "node kernel.test.mjs && node shortcuts.test.mjs && node commerce.test.mjs"
+  },
+  "dependencies": {
+    "lucide": "^0.468.0",
+    "replicad": "1.1.0",
+    "replicad-opencascadejs": "1.1.0",
+    "three": "^0.180.0",
+    "vite": "^7.1.0"
+  },
+  "devDependencies": {
+    "prettier": "^3.6.2"
+  }
+}
